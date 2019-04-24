@@ -1,3 +1,7 @@
+# THIS REPOSITORY HAS BEEN ARCHIVED! NEW REPOSITORY [HERE](https://github.com/tariq86/rn-sip-app)
+---
+---
+---
 # Open-source React Native SIP client for Android & iOS
 
 Based on [React Native](https://github.com/facebook/react-native) and [ReactNativePJSIP](https://github.com/datso/react-native-pjsip)
@@ -48,3 +52,9 @@ To run on Android, you can run either `npm run android` (recommended) _or_ `reac
 To run on iOS, you can call either `npm run ios` (recommended) _or_ `react-native run-ios`  from the project root directory.
 
 ##### Note: I have only tested on an iPhone XS Emulator running 12.1, compiled using XCode version 10.2.
+
+---
+---
+---
+
+# THIS REPOSITORY HAS BEEN ARCHIVED! NEW REPOSITORY [HERE](https://github.com/tariq86/rn-sip-app)
